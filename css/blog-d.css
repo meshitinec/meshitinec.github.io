@@ -1,0 +1,16 @@
+.owl-controls{
+	position: absolute;
+	z-index: 101;
+	top:-80px;
+	right: 20px;
+}
+.owl-page{
+	width: 10px!important;
+	height: 10px!important;
+	background-color: #ccc!important;
+	border: #ccc!important;
+}
+.active{
+	background-color: #00bff3!important;
+	border: #00bff3!important;
+}
